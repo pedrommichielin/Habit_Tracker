@@ -3,6 +3,7 @@ O Habit Tracker é um aplicativo desenvolvido para ajudar você a rastrear seus 
 
 🚀 Funcionalidades Principais
 🏠 Tela Inicial
+
 Na tela principal, você tem acesso rápido às funcionalidades essenciais:
 
 Adicionar, editar, excluir e concluir hábitos
@@ -12,6 +13,7 @@ Navegação fluida entre as demais telas: Gráficos, Dashboard e Configurações
 Interface amigável com foco em usabilidade
 
 📝 Tela de Cadastro
+
 Para criar um novo hábito, basta preencher algumas informações:
 
 Nome do hábito
@@ -23,6 +25,7 @@ Frequência (1 min, 15 min, 30 min, 1h, 12h ou personalizada)
 Após o preenchimento, é só clicar em Salvar e seu novo hábito estará pronto para ser acompanhado.
 
 📊 Tela de Gráficos
+
 Visualize o seu progresso através de um gráfico em pizza, que mostra:
 
 Total de hábitos cadastrados
@@ -34,6 +37,7 @@ Quantos ainda faltam concluir
 Legenda detalhada para facilitar a leitura
 
 📈 Tela de Dashboard
+
 Acompanhe seu desempenho com mais profundidade:
 
 Número total de tarefas concluídas
@@ -43,6 +47,7 @@ Porcentagem de conclusão geral
 Apresentação estatística clara e objetiva
 
 ⚙️ Tela de Configurações
+
 Personalize a experiência conforme seu gosto:
 
 Ative ou desative o modo escuro
@@ -50,6 +55,7 @@ Ative ou desative o modo escuro
 Gerencie as notificações de lembrete de hábitos
 
 🌟 Por que usar o Habit Tracker?
+
 Interface limpa e moderna
 
 Foco na produtividade pessoal
